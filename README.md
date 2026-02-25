@@ -1,2 +1,2 @@
-### Devops-Traning
-Trainng
+### Devops-Training
+Training
